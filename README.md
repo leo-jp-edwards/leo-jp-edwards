@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leo-jp-edwards
+- 👀 I’m interested in healthcare, data and healthcare data
+- 🌱 I’m currently learning graphql, and applications of graph theory to data warehousing
+- 💞️ I’m looking to collaborate on anything data related
+- 📫 How to reach me my twitter is @leojpedwards
