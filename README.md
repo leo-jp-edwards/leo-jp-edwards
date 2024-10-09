@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @leo-jp-edwards
 - 🌱 I’m currently learning graph and network analysis
-- 👀 I’m interested in biotech and startups
+- 👀 I’m interested in cybersecurity, biotech and startups
 - 👨‍🔬 One step at a time to improve the world of supply chain cybersecurity
-- 📫 How to reach me my twitter is @leojpedwards
